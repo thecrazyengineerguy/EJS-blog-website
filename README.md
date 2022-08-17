@@ -1,2 +1,2 @@
-# EJS-blog-website
-A blog website built by EJS 
+# blog-ejs-challenge
+EJS learning from Web Development Bootcamp London App Brewery.
